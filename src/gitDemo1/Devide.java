@@ -6,7 +6,7 @@ public class Devide
 		int a=10;
 		int b=2;
 		int value=a/b;
-		
+		//added small code
 		System.out.println("devided value = "+value);
 	}
 
