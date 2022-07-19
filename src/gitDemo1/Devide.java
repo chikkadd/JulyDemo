@@ -4,7 +4,9 @@ public class Devide
 {
 	public static void main(String[] args) {
 		int a=10;
-		int value=a/2;
+		int b=2;
+		int value=a/b;
+		
 		System.out.println("devided value = "+value);
 	}
 
