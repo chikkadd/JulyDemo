@@ -9,6 +9,7 @@ public class Add
 		int c=30;
 		int sum=a+b+c;
 		System.out.println("sum of 2 numbers = "+sum);
+		//added this comment to show revert
 		
 	}
 
