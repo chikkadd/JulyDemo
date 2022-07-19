@@ -6,8 +6,9 @@ public class Add
 	{
 		int a=10;
 		int b=20;
-		int c=a+b;
-		System.out.println("sum of 2 numbers = "+c);
+		int c=30;
+		int sum=a+b+c;
+		System.out.println("sum of 2 numbers = "+sum);
 		
 	}
 
